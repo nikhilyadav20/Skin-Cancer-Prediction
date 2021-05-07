@@ -6,5 +6,4 @@ scikit-learn
 tensorflow
 scipy
 flask
-re
 werkzeug
