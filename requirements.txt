@@ -1,0 +1,14 @@
+matplotlib
+numpy
+pandas
+os
+glob
+seaborn
+PIL
+scikit-learn
+tensorflow
+scipy
+flask
+sys
+re
+werkzeug
