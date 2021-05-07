@@ -1,7 +1,6 @@
 matplotlib
 numpy
 pandas
-glob
 seaborn
 PIL
 scikit-learn
